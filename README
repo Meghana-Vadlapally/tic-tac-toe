@@ -1,0 +1,6 @@
+It is a regular Tic-Tac-Toe game with two players, playerX and playerO
+
+Each player must click on his/her desired grid area on their turn
+
+If a player make horizontal, vertical or diagonal  XXX or OOO, the respective player wins the game!!!
+ 
